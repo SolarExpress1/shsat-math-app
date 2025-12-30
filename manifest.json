@@ -1,0 +1,14 @@
+
+{
+  "name": "SHSAT Math Practice",
+  "short_name": "SHSAT Math",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff3b3b",
+  "icons": [
+    { "src": "192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "180x180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
